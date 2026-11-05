@@ -1,2 +1,0 @@
-# prodentim-com
-Static site
